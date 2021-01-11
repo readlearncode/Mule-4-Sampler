@@ -1,0 +1,12 @@
+{
+   "CODE1":"123",
+   "CODE2":"456",
+   "PLANETYPE":"Concorde",
+   "AIRLINENAME":"British Airways",
+   "TAKEOFFDATE":"2018-01-20",
+   "PRICE":5000,
+   "FROMAIRPORT":"LHR",
+   "TOAIRPORT":"SFO",
+   "TOTALSEATS":124,
+   "SEATSAVAILABLE":12
+}
