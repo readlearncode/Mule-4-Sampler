@@ -1,0 +1,26 @@
+[
+   {
+      "CODE1":"123",
+      "CODE2":"456",
+      "PLANETYPE":"Concorde",
+      "AIRLINENAME":"British Airways",
+      "TAKEOFFDATE":"2018-01-20",
+      "PRICE":5000,
+      "FROMAIRPORT":"LHR",
+      "TOAIRPORT":"SFO",
+      "TOTALSEATS":124,
+      "SEATSAVAILABLE":12
+   },
+   {
+      "CODE1":"567",
+      "CODE2":"890",
+      "PLANETYPE":"Zeplin",
+      "AIRLINENAME":"British Airways",
+      "TAKEOFFDATE":"2018-01-20",
+      "PRICE":50,
+      "FROMAIRPORT":"MAD",
+      "TOAIRPORT":"SFO",
+      "TOTALSEATS":10,
+      "SEATSAVAILABLE":3
+   }
+]
